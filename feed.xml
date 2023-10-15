@@ -3,10 +3,49 @@
     <title>Cyberlandschap.nl</title>
     <link href="https://AmbitiousToad.github.io/feed.xml" rel="self" />
     <link href="https://AmbitiousToad.github.io" />
-    <updated>1970-01-01T01:00:00+01:00</updated>
+    <updated>2023-10-15T12:32:38+02:00</updated>
     <author>
         <name>ProSec</name>
     </author>
     <id>https://AmbitiousToad.github.io</id>
 
+    <entry>
+        <title>Nationaal Cyber Security Centrum (NCSC)</title>
+        <author>
+            <name>ProSec</name>
+        </author>
+        <link href="https://AmbitiousToad.github.io/nationaal-cyber-security-centrum-ncsc.html"/>
+        <id>https://AmbitiousToad.github.io/nationaal-cyber-security-centrum-ncsc.html</id>
+
+        <updated>2023-10-15T12:32:38+02:00</updated>
+            <summary>
+                <![CDATA[
+                    Startdatum 01-01-2012 Karakter Publiek-Private Samenwerking Funding Publiek
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <table style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr>
+<td style="width: 23.4332%;">Startdatum</td>
+<td style="width: 76.7095%;">01-01-2012</td>
+</tr>
+<tr>
+<td style="width: 23.4332%;">Karakter</td>
+<td style="width: 76.7095%;">Publiek-Private Samenwerking</td>
+</tr>
+<tr>
+<td style="width: 23.4332%;">Funding</td>
+<td style="width: 76.7095%;">Publiek</td>
+</tr>
+<tr>
+<td style="width: 23.4332%;"> </td>
+<td style="width: 76.7095%;"> </td>
+</tr>
+</tbody>
+</table>
+            ]]>
+        </content>
+    </entry>
 </feed>

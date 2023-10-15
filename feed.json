@@ -9,5 +9,19 @@
         "name": "ProSec"
     },
     "items": [
+        {
+            "id": "https://AmbitiousToad.github.io/nationaal-cyber-security-centrum-ncsc.html",
+            "url": "https://AmbitiousToad.github.io/nationaal-cyber-security-centrum-ncsc.html",
+            "title": "Nationaal Cyber Security Centrum (NCSC)",
+            "summary": "Startdatum 01-01-2012 Karakter Publiek-Private Samenwerking Funding Publiek",
+            "content_html": "<table style=\"border-collapse: collapse; width: 100%;\" border=\"1\">\n<tbody>\n<tr>\n<td style=\"width: 23.4332%;\">Startdatum</td>\n<td style=\"width: 76.7095%;\">01-01-2012</td>\n</tr>\n<tr>\n<td style=\"width: 23.4332%;\">Karakter</td>\n<td style=\"width: 76.7095%;\">Publiek-Private Samenwerking</td>\n</tr>\n<tr>\n<td style=\"width: 23.4332%;\">Funding</td>\n<td style=\"width: 76.7095%;\">Publiek</td>\n</tr>\n<tr>\n<td style=\"width: 23.4332%;\"> </td>\n<td style=\"width: 76.7095%;\"> </td>\n</tr>\n</tbody>\n</table>",
+            "author": {
+                "name": "ProSec"
+            },
+            "tags": [
+            ],
+            "date_published": "2023-10-15T12:32:38+02:00",
+            "date_modified": "2023-10-15T12:32:38+02:00"
+        }
     ]
 }
